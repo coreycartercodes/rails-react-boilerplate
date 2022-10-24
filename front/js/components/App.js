@@ -9,7 +9,7 @@ import Timestamp from './Timestamp';
 const App = () => {
   return (
     <div>
-      <h1>Hello World!</h1>
+      <h1>Welcome to Handshake!</h1>
 
       <Timestamp />
     </div>
